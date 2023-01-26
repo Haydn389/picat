@@ -1,3 +1,11 @@
 package.json
 package-lock.json
 node_modules
+.env
+config/users
+
+00_test/
+
+# face-api
+tmp
+weights

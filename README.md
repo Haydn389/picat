@@ -2,7 +2,8 @@
 
 얼굴 인식으로 쉽고 빠른 사진 공유 안드로이드 앱
 
-2022.12.22 ~ 2023.01.28 (5주)
+수행기간 : 2022.12.22 ~ 2023.01.28 (5주)
+참여인원 : Client 2명/ Server 2명
 
 ![Group 237](https://user-images.githubusercontent.com/69448918/215417167-6d308102-4bf7-4fda-84c1-fcedddd0e129.png)
 

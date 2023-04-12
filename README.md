@@ -3,7 +3,15 @@
 얼굴 인식으로 쉽고 빠른 사진 공유 안드로이드 앱
 
 수행기간 : 2022.12.22 ~ 2023.01.28 (5주)
+
 참여인원 : Client 2명/ Server 2명
+
+역할 :  
+- 서비스 기획, 서버구축 및 API 설계
+- 얼굴 인식 라이브러리 적용 및 처리 로직 개선
+- 인물별 필터기능 구현
+- 흐린 사진 작업서버 분리 및 DB관리
+
 
 ![Group 237](https://user-images.githubusercontent.com/69448918/215417167-6d308102-4bf7-4fda-84c1-fcedddd0e129.png)
 
@@ -15,7 +23,7 @@
 
 #### Node.js + Express, AWS Rekognition, S3, EC2, MongoDB Atlas, OpenCV
 
-### 구현
+### 구현내용
 
 - 서버 구축 및 배포
 
